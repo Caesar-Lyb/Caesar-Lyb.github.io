@@ -16,3 +16,8 @@ I am Yubing Li, a fourth-year Ph.D. student at the School of Information and Int
 My research interests include **Multimodal and Multidimensional Information Processing** (**Text, Images, and Point Clouds**), **Visual Reasoning**, **Brain-Inspired Intelligence** and **Cognitive Science**.
 
 My long-term vision is to advance AI beyond pattern recognition toward a genuine understanding of the world, enabling systems to reason about real-world situations and uncover the underlying principles governing natural phenomena.
+
+## Academic Services
+IEEE TCSVT
+IEEE TAFFC
+Neurocomputing
