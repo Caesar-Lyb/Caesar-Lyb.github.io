@@ -41,14 +41,14 @@ author:
   orcid            : "https://orcid.org/0009-0001-7174-3368"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        :
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
