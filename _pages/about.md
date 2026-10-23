@@ -8,4 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am [Your Name], a [your current position] at [your institution]. My research interests include [research area 1], [research area 2], and [research area 3]. My work focuses on developing effective methods for [your research goals].
+## Profile
+
+I am Yubing Li, a fourth-year Ph.D. student in Control Science and Engineering at the College of Information Science and Technology, Donghua University. I am currently conducting visiting research at Nanyang Technological University (NTU) and A*STAR’s Institute for Infocomm Research (I²R), under the mentorship of Chief Scientist Xulei Yang and Senior Scientist Xun Xu.
+
+## Research
+
+My research interests span multimodal information processing across 1D, 2D, and 3D modalities, including text, images, and point clouds, as well as visual reasoning, brain-inspired intelligence, and cognitive science.
+
+My long-term vision is to advance artificial intelligence beyond superficial pattern recognition toward a genuine understanding of the world. I am particularly interested in developing AI systems that can understand real-world situations, reason about the relationships between entities and events, and uncover the underlying principles that govern natural phenomena. Ultimately, I hope to contribute to AI that can build coherent representations of the world, reason about its dynamics, and develop a deeper understanding of the laws of nature.
