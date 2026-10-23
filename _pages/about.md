@@ -19,5 +19,7 @@ My long-term vision is to advance AI beyond pattern recognition toward a genuine
 
 ## Academic Services
 IEEE TCSVT
+
 IEEE TAFFC
+
 Neurocomputing
