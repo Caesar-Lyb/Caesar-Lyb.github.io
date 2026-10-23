@@ -18,8 +18,8 @@ My research interests include **Multimodal and Multidimensional Information Proc
 My long-term vision is to advance AI beyond pattern recognition toward a genuine understanding of the world, enabling systems to reason about real-world situations and uncover the underlying principles governing natural phenomena.
 
 ## Academic Services
-IEEE TCSVT
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
-IEEE TAFFC
+IEEE Transactions on Affective Computing (TAFFC)
 
 Neurocomputing
