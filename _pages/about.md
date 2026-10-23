@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Profile
+## About Me
 
 I am Yubing Li, a fourth-year Ph.D. student in Control Science and Engineering at the School of Information and Intelligent Science, Donghua University. I am currently conducting visiting research at Nanyang Technological University (NTU) and the Institute for Infocomm Research (I2R), A*STAR, under the supervision of Principal Scientist [Dr. Xulei Yang](https://dawdleryang.github.io/) and Senior Scientist [Dr. Xun Xu](https://alex-xun-xu.github.io/).
 
