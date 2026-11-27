@@ -36,3 +36,11 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+
+/* Hide hamburger menu on desktop */
+@media (min-width: 925px) {
+  .greedy-nav__toggle {
+    display: none !important;
+  }
+}
