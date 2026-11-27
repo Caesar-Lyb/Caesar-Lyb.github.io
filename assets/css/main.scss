@@ -38,7 +38,11 @@
 ;
 
 
-/* TEMP: Hide navigation toggle */
-.greedy-nav__toggle {
-  display: none !important;
+
+/* Hide hamburger menu on desktop */
+@media screen and (min-width: 925px) {
+  #site-nav > button {
+    display: none !important;
+  }
 }
+
