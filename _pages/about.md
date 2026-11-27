@@ -20,9 +20,14 @@ My long-term vision is to advance AI beyond pattern recognition toward a genuine
 ## Academic Services
 
 - **Reviewer**
+IEEE Transactions on Image Processing (TIP)
+
+IEEE Transactions on Multimedia (TMM)
 
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 IEEE Transactions on Affective Computing (TAFFC)
+
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 Neurocomputing
